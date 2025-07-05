@@ -68,6 +68,18 @@ flutter build web
 
 ---
 
+## APK Installation (Android)
+
+You can install the prebuilt APK directly on your Android device:
+
+1. Download the APK file: [`gutenberg-v1.apk`](./gutenberg-v1.apk)
+2. Transfer the APK to your Android device (via USB, email, or cloud storage).
+3. On your device, open the APK file. You may need to allow installation from unknown sources.
+4. Follow the prompts to install the app.
+5. Launch "Gutenberg" from your app drawer!
+
+---
+
 ## Configuration
 
 - **API Base URL:** Set in `lib/common/utils/constants.dart` (`Constants.API_BASE_URL`).
